@@ -1,16 +1,116 @@
-# project
+# 🎉 Event Management System
 
-A new Flutter project.
+A Flutter-based Event Management System that allows users to browse, book, and manage events through a modern mobile application. The system includes user authentication, event booking, venue management, decoration services, payment features, and an admin panel for managing the platform.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 👤 User Features
+- User Registration & Login
+- Password Change
+- Browse Events
+- Event Booking
+- Venue Booking
+- Decoration Services
+- Mandap Booking
+- Stage Management
+- Payment Module
+- Favourite Events
+- Booking Details
+- Contact Us
+- About Us
+- Help & Support
+- Privacy & Security
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔑 Admin Features
+- Admin Dashboard
+- User Management
+- Booking Management
+- Venue Management
+- Decoration Management
+- Stage Management
+- Mandap Management
+- Gate Management
+- Coupon Management
+- Event Planner Management
+- Rating & Review Management
+- About Us Management
+- Settings Management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+
+- Flutter
+- Dart
+- Material Design
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│
+├── Authentication/
+├── Admin/
+├── screens/
+├── payment/
+├── decoration/
+├── gate/
+├── mandap/
+├── venue/
+└── widgets/
+```
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/srima45678/Event-Management-System.git
+```
+
+### Install Dependencies
+
+```bash
+flutter pub get
+```
+
+### Run the Project
+
+```bash
+flutter run
+```
+
+---
+
+## 🎯 Purpose
+
+This project was developed as part of academic learning to understand Flutter application development and implement an Event Management System with multiple modules.
+
+---
+
+## 📚 Learning Outcomes
+
+- Flutter UI Development
+- Navigation
+- Authentication
+- State Management
+- Form Validation
+- CRUD Operations
+- Project Structure
+- Mobile Application Development
+
+---
+
+## 👩‍💻 Author
+
+**Rima Shah**
+
+Computer Engineering Student
+
+GitHub: https://github.com/srima45678
