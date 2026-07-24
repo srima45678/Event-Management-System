@@ -15,7 +15,7 @@ A Flutter-based Event Management System that allows users to browse, book, and m
 - Decoration Services
 - Mandap Booking
 - Stage Management
-- Payment Module
+- Payment Module (UI flow — no live payment gateway integrated yet)
 - Favourite Events
 - Booking Details
 - Contact Us
